@@ -32,4 +32,4 @@ cd path/to/your/vault/.obsidian/themes/Minimalists-Paradise
 git pull
 ```
 
-> Next step: [Features Overview](Features%20Overview.md).
+> Next step: [Features](Features.md).
