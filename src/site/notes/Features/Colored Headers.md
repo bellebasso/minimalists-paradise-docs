@@ -5,7 +5,7 @@
 Give your notes a little color with the colored headers! Choose between different presets or create your own custom combinations.
 > If enabled, it will be set to the default scheme on a per theme basis. You can choose to override to a different colored header schemes, or create your own with the custom headers option.
 # Showcases
-> **Disclaimer**: ALL colored headers showcases have the [color accent override](Color%20Accent%20Override.md) setting turned on, and no custom headers applied.
+> **Disclaimer**: ALL colored headers showcases have the [[Features/Color Accent Override\|Color Accent Override]] setting turned on, and no custom headers applied.
 ## Default Dark
 ![preview 2 default dark mode.png](/img/user/attachments/preview%202%20default%20dark%20mode.png)
 ## Default Light
