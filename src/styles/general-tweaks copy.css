@@ -1,0 +1,72 @@
+/* ==========================================================================
+   General Tweaks Snippet for Obsidian
+   Inspired by CyanVoxel – Custom tweaks without removing headers in embeds
+   Author: Isabelle Basso
+   ==========================================================================
+*/
+
+/* ------------------------------
+   1. Center All Headers (Activate with `.center-headers` class)
+------------------------------ */
+.center-headers :is(h1, h2, h3, h4, h5, h6) {
+    text-align: center;
+}
+
+.center-headers :is(h1, .HyperMD-header.HyperMD-header-1) {
+    text-align: center;
+}
+
+.center-headers :is(h2, .HyperMD-header.HyperMD-header-1) {
+    text-align: center;
+}
+
+.center-headers :is(h3, .HyperMD-header.HyperMD-header-1) {
+    text-align: center;
+}
+
+.center-headers :is(h4, .HyperMD-header.HyperMD-header-1) {
+    text-align: center;
+}
+
+.center-headers :is(h5, .HyperMD-header.HyperMD-header-1) {
+    text-align: center;
+}
+
+.center-headers :is(h6, .HyperMD-header.HyperMD-header-1) {
+    text-align: center;
+}
+
+/* ------------------------------
+   2. Remove Only Left Border of Embeds
+------------------------------ */
+.markdown-embed,
+.internal-embed {
+    border-left: none !important;
+    /* Remove only left line */
+}
+
+/* ------------------------------
+   3. Remove Left Border AND Margin/Padding of Embeds
+------------------------------ */
+.embed-clean {
+    border-left: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+/* When a cssclass is added to a note using "wide" it makes it wider. I use this for my homepage */
+.wide {
+    --file-line-width: 63.5rem;
+}
+
+/* hide properties by applying the class hideprops in the cssclasses */
+.hideprops .metadata-properties,
+.hideprops .metadata-container {
+    display: none !important;
+}
+
+/* How to use:
+ * To center headers in a note, add `cssclass: center-headers` in frontmatter.
+ * To apply the full stealth effect, add the class `embed-clean` to the block/embed.
+ * To just remove the left line, the default styling will apply.
+ */
