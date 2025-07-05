@@ -24,4 +24,4 @@ Most markdown format supported by obsidian is supported (refer to the original [
 ![infobox callout dark 1.png|300](/img/user/attachments/infobox%20callout%20dark%201.png)
 ![infobox callout light 1.png|300](/img/user/attachments/infobox%20callout%20light%201.png)
 # Style Settings Preview
-![Screenshot 2025-07-04 at 00.43.53.png](/img/user/Screenshot%202025-07-04%20at%2000.43.53.png)
+![Screenshot 2025-07-04 at 00.43.53.png](/img/user/system/attachments/Screenshot%202025-07-04%20at%2000.43.53.png)
