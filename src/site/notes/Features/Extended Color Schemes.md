@@ -7,23 +7,23 @@ Minimalist's Paradise is minimal, but not boring. Choose between different prese
 > **Disclaimer**: ALL extended color schemes showcases have both the enable [[Features/Colored Headers\|colored headers]] and the [[Features/Color Accent Override\|color accent override]] settings turned on.
 # Extended Light Color Schemes
 ## Violet Haze
-![violet preview.png](/img/user/attachments/violet%20preview.png)
+![violet haze preview.png](/img/user/attachments/violet%20haze%20preview.png)
 ## Leaf
-![leaf preview.png](/img/user/attachments/leaf%20preview.png)
+![leaf preview 1.png](/img/user/attachments/leaf%20preview%201.png)
 ## Sky
-![sky preview.png](/img/user/attachments/sky%20preview.png)
+![sky preview 1.png](/img/user/attachments/sky%20preview%201.png)
 ## Fog
-![fog preview.png](/img/user/attachments/fog%20preview.png)
+![fog preview 1.png](/img/user/attachments/fog%20preview%201.png)
 ## Red Desert
-![red desert preview.png](/img/user/attachments/red%20desert%20preview.png)
+![red desert preview 1.png](/img/user/attachments/red%20desert%20preview%201.png)
 # Extended Dark Color Schemes
 ## Abyss
-![abyss preview.png](/img/user/attachments/abyss%20preview.png)
+![abyss preview 1.png](/img/user/attachments/abyss%20preview%201.png)
 ## Atlantic
-![atlantic preview.png](/img/user/attachments/atlantic%20preview.png)
+![atlantic preview 1.png](/img/user/attachments/atlantic%20preview%201.png)
 ## Moss
-![moss preview.png](/img/user/attachments/moss%20preview.png)
+![moss preview 1.png](/img/user/attachments/moss%20preview%201.png)
 ## Onyx
-![onyx preview.png](/img/user/attachments/onyx%20preview.png)
+![onyx preview 1.png](/img/user/attachments/onyx%20preview%201.png)
 # Style Settings Preview
-![Screenshot 2025-07-04 at 00.46.33.png](/img/user/system/attachments/Screenshot%202025-07-04%20at%2000.46.33.png)
+![Screenshot 2025-07-04 at 00.46.33.png](/img/user/attachments/Screenshot%202025-07-04%20at%2000.46.33.png)

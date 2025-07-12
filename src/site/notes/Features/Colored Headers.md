@@ -30,4 +30,4 @@ Give your notes a little color with the colored headers! Choose between differen
 ## Violet Haze
 ![violet haze preview 2.png](/img/user/attachments/violet%20haze%20preview%202.png)
 # Style Setting Preview
-![Screenshot 2025-07-04 at 01.14.04.png](/img/user/system/attachments/Screenshot%202025-07-04%20at%2001.14.04.png)
+![Screenshot 2025-07-04 at 01.14.04.png](/img/user/attachments/Screenshot%202025-07-04%20at%2001.14.04.png)

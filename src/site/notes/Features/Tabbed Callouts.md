@@ -30,4 +30,4 @@ Most markdown format supported by obsidian is supported. Any bugs feel free to o
 ```
 ![tabbed callout dark 1.png](/img/user/attachments/tabbed%20callout%20dark%201.png)![tabbed callout light 1.png](/img/user/attachments/tabbed%20callout%20light%201.png)
 # Style Settings Preview
-![Screenshot 2025-07-04 at 01.06.07.png](/img/user/system/attachments/Screenshot%202025-07-04%20at%2001.06.07.png)
+![Screenshot 2025-07-04 at 01.06.07.png](/img/user/attachments/Screenshot%202025-07-04%20at%2001.06.07.png)
