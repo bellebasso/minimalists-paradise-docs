@@ -19,3 +19,5 @@ Make your notes aesthetic and interactive with the infobox callouts (inspired by
 Create callouts with tabs for better navigation (inspired by and adpated from [this snippet](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Tabbed%20callout.md)).
 
 > This is integrated to use the theme colors. If you prefere to use the original snippet, disable the tabbed callout section via the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin.
+# [[Features/Hover Properties\|Hover Properties]]
+For an even more minimalist look, enable the setting [[Features/Hover Properties\|Hover Properties]] to automatically hide the properties and reveal them by simply hovering.
