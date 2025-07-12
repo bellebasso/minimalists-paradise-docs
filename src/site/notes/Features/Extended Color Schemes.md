@@ -5,6 +5,8 @@
 Minimalist's Paradise is minimal, but not boring. Choose between different presets for both light and dark mode, in an integrated interface via the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin. (This looks even better with the Color Accent Override turned on!)
 
 > **Disclaimer**: ALL extended color schemes showcases have both the enable [[Features/Colored Headers\|colored headers]] and the [[Features/Color Accent Override\|color accent override]] settings turned on.
+
+![Extended Color Schemes-2.png](/img/user/attachments/Extended%20Color%20Schemes-2.png)
 # Extended Light Color Schemes
 ## Violet Haze
 ![violet haze preview.png](/img/user/attachments/violet%20haze%20preview.png)
