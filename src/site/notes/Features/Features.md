@@ -4,8 +4,8 @@
 
 # Light & Dark Mode Support
 Minimalist's Paradise has support for both light and dark mode. This way, your eyes can have some rest while still appreciating an aesthetic and minimal design.
-![[default dark showcase.png\|500]] 
-![default light showcase.png|500](/img/user/attachments/default%20light%20showcase.png)
+![dark preview.png|500](/img/user/attachments/dark%20preview.png) 
+![light preview.png|500](/img/user/attachments/light%20preview.png)
 # [[Features/Extended Color Schemes\|Extended Color Schemes]]
 Minimalist's Paradise is minimal, but not boring. Sick of the plain black or grey? Choose between multiple color schemes to find the one which better suit your needs via the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings). (This looks even better with the [Color Accent Override](Color%20Accent%20Override.md) turned on!)
 # [[Features/Color Accent Override\|Color Accent Override]]
