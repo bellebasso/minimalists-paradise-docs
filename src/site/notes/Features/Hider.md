@@ -7,4 +7,4 @@ Automatically hides multiple UI elements, including the tab bar, ribbon, status 
 > This feature is fully optional and highly customizable: each UI element (tabs, ribbon, status bar, tab title bar, header icons in side pane and vault profile) can be toggled individually to suit your preferred level of minimalism.
 
 > [!info] **WARNING:**
-> This feature is still a work in progress, there are some bugs associated with it, but nothing system breaking. A known issue is the vertical spacing of tabs changing when switching from one tab to another.
+> This feature is still a work in progress, if you encounter any bugs or inconsistencies please open an [issue](https://github.com/bellebasso/Minimalists-Paradise/issues).

@@ -16,7 +16,7 @@ Give your notes a little color with the colored headers! Choose between differen
 Make your notes aesthetic and interactive with the infobox callouts (inspired by and adapted from [this snippet](https://github.com/Avyrra/Infobox-Callouts?tab=readme-ov-file)).
 > This is integrated to use the theme colors. If you prefer to use the original snippet with all the customization features, disable the infobox section via the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin.
 # [[Features/Tabbed Callouts\|Tabbed Callouts]]
-Create callouts with tabs for better navigation (inspired by and adpated from [this snippet](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Tabbed%20callout.md)).
+Create callouts with tabs for better navigation (inspired by and adapted from [this snippet](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Tabbed%20callout.md)).
 
 > This is integrated to use the theme colors. If you prefer to use the original snippet, disable the tabbed callout section via the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin.
 # [[Features/Hover Properties\|Hover Properties]]
