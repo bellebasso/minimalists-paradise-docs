@@ -21,3 +21,5 @@ Create callouts with tabs for better navigation (inspired by and adpated from [
 > This is integrated to use the theme colors. If you prefere to use the original snippet, disable the tabbed callout section via the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin.
 # [[Features/Hover Properties\|Hover Properties]]
 For an even more minimalist look, enable the setting [[Features/Hover Properties\|Hover Properties]] to automatically hide the properties and reveal them by simply hovering.
+# [[Features/Hider\|Hider]]
+Automatically hides multiple UI elements, including the tab bar, ribbon, status bar, sidepane headers, and vault profile — for a cleaner, distraction-free workspace. These elements smoothly reveal themselves when hovered, allowing you to keep a minimalist layout without sacrificing quick navigation.
